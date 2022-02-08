@@ -1,3 +1,3 @@
 - 👋 Hi, My name is Garrett Thompson!
-- 👀 Im interested in becoming a software engineer or game developer that can aid in creating some awesome applications!
-- 🌱 I'm currently on track to recieve my Bachelor's in Computer Science, but I am also developing and creating games going along with courses and on my own as well.
+- 👀 Im interested in becoming a software engineer or game developer that can aid in creating some awesome applications! Areas I'm specifically interested in would be gameplay programming, animation programming, or UI/UX programming.
+- 🌱 I'm currently on track to recieve my Bachelor's in Computer Science with a concentration of Game Development, but I am also developing and creating games going along with courses and on my own as well.
